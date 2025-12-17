@@ -23,3 +23,5 @@ Download: Clone this repository or download.
 Open: Open the file using Power BI Desktop.
 
 Interact: Utilize the filters, slicers, and cross-highlighting features on each page to customize the data view.
+
+Screenshot/ demo - show what the dashboard look like - ![Alt text](https://github.com/Nishantt98/HR-ANALYTICS-DASHBOARD/blob/main/DASHBOARD.png)
